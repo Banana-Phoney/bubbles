@@ -3,6 +3,7 @@ Raspberry Pi, Python bubble machine.
 
 On my version i have used a Raspberry Pi Zero since that was what i had laying around. Also Python is what i am familiar with.
 
+
 Parts are:
 
 1 x Raspberry Pi Zero - i like to use Python and have been slow to order something like ESP32.
