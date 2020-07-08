@@ -17,3 +17,13 @@ Parts are:
 1 x 5V 2.1A powerbank - This powers the Pi, Servo and Relay.
 
 1 x 3.6V 2000 mAh 18650 li ion battery - This is added to drive the motor. I got problems trying to drive everything including the motor from one batteri pack.
+
+
+Connection schematic 
+![Schematic](/Images/Schematic.PNG)
+
+Picture from the front of the setup
+![Front](/Images/Front.jpg)
+
+Picture from the back of the setup
+![Back](/Images/Back.jpg)
